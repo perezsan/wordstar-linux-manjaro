@@ -1,0 +1,6 @@
+[Desktop Entry]
+Comment=Wordstar Linux Spine config
+Exec=sh -c "/home/\$USER/.scripts/spine.py"
+Name=Wordstar Linux Spine Configurator
+Type=Application
+Icon=accessories-text-editor
