@@ -6,9 +6,14 @@ Lastly, overwrite new folder with this project, and everything should work.
 
 So this new hodge podge should be in ~/iso-tools/community/wordstar
 
-Add whatever-the-fuck to desktop-overlay
+Add whatever-the-fuck to desktop-overlay dir
 
-at that point, running *buildiso -p wordstar*
+Make sure you have ran **pamac install manjaro-tools**, then copy
+over /etc/manjaro-tools/manjaro-tools.conf to **~/.config/manjaro-tools/**
+
+Edit ~/.config/manjaro-tools/manjaro-tools.conf judiciously ... my only change is the kernel, which is **linux54** as o 3/18/2020.
+
+now run **buildiso -p wordstar**
 
 I know--a shitty hack.
 I'll fix later perhaps, but I just wanted to keep the scripts separate from this release.
