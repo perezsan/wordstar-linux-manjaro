@@ -17,3 +17,5 @@ now run **buildiso -p wordstar**
 
 I know--a shitty hack.
 I'll fix later perhaps, but I just wanted to keep the scripts separate from this release.
+
+A full ,working distro can be downloaded from here: [Wordstar Linx 19.02 Manjaro](https://healingrant.com/heaviside/wordstar-linux/)
