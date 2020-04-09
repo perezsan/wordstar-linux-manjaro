@@ -16,6 +16,6 @@ Edit ~/.config/manjaro-tools/manjaro-tools.conf judiciously ... my only change i
 now run **buildiso -p wordstar**
 
 I know--a shitty hack.
-I'll fix later perhaps, but I just wanted to keep the scripts separate from this release.
+I'll fix later perhaps, but I just wanted to keep the scripts separate from this release. (And all these files are slightly outdated--will ned to upload latest soon.)
 
-A full ,working distro can be downloaded from here: [Wordstar Linux 19.02 Manjaro](https://healingrant.com/heaviside/wordstar-linux/)
+A full, working distro can be downloaded from here: [Wordstar Linux 19.02 Manjaro](https://healingrant.com/heaviside/wordstar-linux/)
