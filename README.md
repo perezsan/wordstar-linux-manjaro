@@ -1,7 +1,7 @@
 # wordstar-linux-manjaro-isotools
 Wordstar Linux manjaro-tools repo
 
-git clone manjaro-isotools, then duplicate an i3 dir that's in the community folder. 
+git clone https://github.com/manjaro/iso-profiles, then duplicate an i3 dir that's in the community folder. 
 Lastly, overwrite new folder with this project, and everything should work.
 
 So this new hodge podge should be in ~/iso-tools/community/wordstar
